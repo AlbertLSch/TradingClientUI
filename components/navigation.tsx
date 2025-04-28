@@ -22,7 +22,7 @@ export default function Navigation() {
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="flex items-center space-x-2">
             <LineChart className="h-6 w-6 text-green-500" />
-            <span className="font-bold">StockTrade</span>
+            <span className="font-bold">TradingClient</span>
           </Link>
         </div>
         <nav className="hidden md:flex flex-1 items-center justify-center space-x-4">
@@ -45,7 +45,7 @@ export default function Navigation() {
         <div className="md:hidden flex-1 flex justify-between">
           <Link href="/" className="flex items-center">
             <LineChart className="h-6 w-6 text-green-500" />
-            <span className="font-bold ml-2">StockTrade</span>
+            <span className="font-bold ml-2">TradingClient</span>
           </Link>
         </div>
       </div>

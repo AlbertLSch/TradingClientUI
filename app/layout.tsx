@@ -7,9 +7,8 @@ import Navigation from "@/components/navigation"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "StockTrade - Modern Stock Trading Platform",
-  description: "A modern stock trading platform inspired by TradeRepublic",
-    generator: 'v0.dev'
+  title: "TradingClient - Client Server Project",
+  description: "Inspired by TradeRepublic"
 }
 
 export default function RootLayout({
